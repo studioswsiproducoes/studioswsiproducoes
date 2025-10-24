@@ -1,4 +1,4 @@
 # Wsi Producoes
 # site 
 
-![preview img](/preview.png)
+![preview img](/.png)
